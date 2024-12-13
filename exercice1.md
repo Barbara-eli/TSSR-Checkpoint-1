@@ -8,6 +8,7 @@
 pour préparer la partition du deuxième disque de 10G **cfdisk /dev/sdb**
 ![](https://github.com/Barbara-eli/TSSR-Checkpoint-1/blob/main/Ressources/2.png?raw=true)
 on choisi DOS
+
 3.
 on procède avec la partition du disque en 2 parties: une de 6G et la deuxième de 4G
 ![](https://github.com/Barbara-eli/TSSR-Checkpoint-1/blob/main/Ressources/4.png?raw=true)
