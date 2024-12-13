@@ -10,7 +10,7 @@ Donc ça sera:
 3. En créant un fichier **.gitignore** et en y ajoutant la règle ***.pdf**.
 4. il faut basculer dans la branche _main_ et exécuter **git merge test_valide**.
 5. On peut le sauvegarder dans un fichier texte qu'on appelle **dialogue.txt** et pour affichier le contenu du fichier on exécute la commande **cat dialogue.txt**.
-6. la commande est **fg %1** car _getit_ est  identifiée avec le numèro 1.
+6. la commande est **fg %1** car _getit_ est  identifié avec le numèro 1.
 7. La n° 2 est la couche de **Liaison**  ou **Data link**. Comme équipement on a _le bridge, le switch._
    La n° 3 est la couche du **Réseau** ou **Network**. Comme équipement on a _le router_.
 8. cd = Set-Location
